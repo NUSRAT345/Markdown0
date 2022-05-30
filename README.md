@@ -1,9 +1,10 @@
 # Markdown0
 ### Some Math Equation
-<center>First equation: $Y=X\beta+\epsilon y,\forall X$ <br></center>
-<center>Second equation: $X=Z\gamma+\epsilon x$ <br><br></center>
+<p align="center">
+First equation: $Y=X\beta+\epsilon y,\forall X$ <br>
+Second equation: $X=Z\gamma+\epsilon x$ <br><br>
 
-=\sigma/2\pi,\omega\epsilon[-\pi,\pi]
+$$f_1(\omega)=\frac{\sigma^2}{2\pi}\, ,\omega\in[-\pi,\pi]$$
 
 |Syntex   |Description |Test Text  |
 |:-------:|:----------:|:---------:|
