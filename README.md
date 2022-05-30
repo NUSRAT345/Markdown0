@@ -1,5 +1,5 @@
 # Markdown0
-###Some Math Equation
+### Some Math Equation
 
 |Syntex   |Description |Test Text  |
 |:-------:|:----------:|:---------:|
