@@ -1,5 +1,6 @@
 # Markdown0
 ### Some Math Equation
+First equation: $Y=Xb+cy,Ax$
 
 |Syntex   |Description |Test Text  |
 |:-------:|:----------:|:---------:|
