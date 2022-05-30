@@ -1,6 +1,6 @@
 # Markdown0
 ### Some Math Equation
-First equation: $Y=X\beta+\epsilon y,\forall X$
+$$First equation: Y=X\beta+\epsilon y,\forall X$$
 
 |Syntex   |Description |Test Text  |
 |:-------:|:----------:|:---------:|
