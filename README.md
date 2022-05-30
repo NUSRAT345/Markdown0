@@ -1,7 +1,7 @@
 # Markdown0
 ### Some Math Equation
-First equation: $Y=X\beta+\epsilon y,\forall X$ <br>
-Second equation: $X=Z\gamma+\epsilon x$ <br><br>
+<center>First equation: $Y=X\beta+\epsilon y,\forall X$ <br></center>
+<center>Second equation: $X=Z\gamma+\epsilon x$ <br><br></center>
 
 =\sigma/2\pi,\omega\epsilon[-\pi,\pi]
 
