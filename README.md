@@ -18,6 +18,13 @@ $$f_1(\omega)=\frac{\sigma^2}{2\pi}\,\omega\in[-\pi,\pi]$$
 
 <img src = "https://github.com/sbfrusho/ratake/blob/master/Screenshot%20from%202022-05-30%2022-47-17.png" alt = "picture" width = "200" height = "200">
 
+```
+
+library(tidyverse)
+library(mdsr)
+SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +
+geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")
+```
 
 |Syntex   |Description |Test Text  |
 |:-------:|:----------:|:---------:|
