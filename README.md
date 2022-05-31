@@ -13,7 +13,7 @@ $$f_1(\omega)=\frac{\sigma^2}{2\pi}\,\omega\in[-\pi,\pi]$$
 -  First Item
 -  Second Item
      - first sub-item
-          -first sub-sub-item
+          - first sub-sub-item
      - second sub-item
 
 |Syntex   |Description |Test Text  |
