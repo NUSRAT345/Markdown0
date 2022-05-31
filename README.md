@@ -25,6 +25,10 @@ library(mdsr)
 SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +
 geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")
 ```
+# Table with alingment
+
+You can align text in the columns to the left, right, or center by adding a colon (:) to the left,
+right, or on both side of the hyphens within the header row.
 
 |Syntex   |Description |Test Text  |
 |:-------:|:----------:|:---------:|
