@@ -16,7 +16,12 @@ $$f_1(\omega)=\frac{\sigma^2}{2\pi}\,\omega\in[-\pi,\pi]$$
           - first sub-sub-item
      - second sub-item
 
+<img src = "https://github.com/sbfrusho/ratake/blob/master/Screenshot%20from%202022-05-30%2022-47-17.png" alt = "picture" width = "200" height = "200">
+
+
 |Syntex   |Description |Test Text  |
 |:-------:|:----------:|:---------:|
 |Header   |Titles      |Here's this| 
 |Paragraph|Text        |And more   | 
+
+
